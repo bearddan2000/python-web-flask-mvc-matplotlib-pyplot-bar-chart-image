@@ -1,0 +1,20 @@
+[2022-05-01 17:25:41 INFO]: install::setup-logging ended
+================
+[2022-05-01 17:25:41 INFO]: install::start-up started
+[2022-05-01 17:25:41 INFO]: install::start-up build image
+[2022-05-01 17:25:41 INFO]: install::start-up running image
+[2022-05-01 17:25:41 INFO]: install::start-up ended
+================
+[2022-05-01 17:26:54 INFO]: install::root-check started
+[2022-05-01 17:26:54 INFO]: install::root-check ended
+================
+[2022-05-01 17:26:54 INFO]: install::docker-check started
+[2022-05-01 17:26:54 INFO]: install::docker-check ended
+================
+[2022-05-01 17:26:54 INFO]: install::docker-compose-check started
+[2022-05-01 17:26:54 INFO]: install::docker-compose-check ended
+================
+[2022-05-01 17:26:54 INFO]: install::tear-down started
+[2022-05-01 17:26:54 INFO]: install::tear-down services removed
+[2022-05-01 17:26:54 INFO]: install::tear-down ended
+================
